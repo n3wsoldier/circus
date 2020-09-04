@@ -19,9 +19,12 @@ public class Duck extends Bird {
     public int getValue() {
         return 10;
     }
+<<<<<<< HEAD:src/main/java/circus/animal/Duck.java
 
     @Override
     public void fly() {
 
     }
+=======
+>>>>>>> improved:src/main/java/Duck.java
 }
